@@ -1,0 +1,62 @@
+button{
+  font-size: 20px;
+  font-weight: bold;
+}
+h2{
+  color:blue;
+  font-size: 70px;
+}
+#name{
+  font-size: 40px;
+  margin-left: -40px;
+  color: crimson;
+}
+#next{
+  display: none;
+  margin-left: 50%;
+  margin-top: -61px;
+  background-color: rgb(255, 0, 51);
+  color: white;
+  width: 70px;
+}
+#viewscore{
+  display: none;
+  margin-left: 36%;
+  background-color: red;
+  color: white;
+}
+.quiz{
+  margin-left: 32.5%;
+  cursor: pointer;
+  font-size: 80px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bolder;
+  background: linear-gradient(red,yellow,rgb(25, 192, 243));
+  background-size: 100px 45px;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: none;
+}
+div{
+  margin-left: 10%;
+}
+#click{
+  margin-left: 36%;
+  background-color: darkorange;
+  color: white;
+}
+#start{
+  display: none;
+  margin-left: 35.7%;
+  margin-bottom: 30px;
+  background-color: red;
+  color: white;
+}
+#question{
+  margin-top: 80px;
+  margin-left: 36.6%;
+}
+#answer{
+  margin-left: 29.5%;
+}
+
